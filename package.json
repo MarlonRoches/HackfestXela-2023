@@ -1,0 +1,24 @@
+{
+  "name": "hackfestxela-2023",
+  "version": "1.0.0",
+  "description": "Reslucion de ejercicio para el hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ej1": "nodemon ejercicio1.js",
+    "ej2": "nodemon ejercicio2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarlonRoches/HackfestXela-2023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarlonRoches/HackfestXela-2023/issues"
+  },
+  "homepage": "https://github.com/MarlonRoches/HackfestXela-2023#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
