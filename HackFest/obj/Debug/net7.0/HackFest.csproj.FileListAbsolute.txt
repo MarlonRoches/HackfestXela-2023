@@ -1,0 +1,15 @@
+/Users/marlonroches/Projects/HackFest/HackFest/bin/Debug/net7.0/HackFest
+/Users/marlonroches/Projects/HackFest/HackFest/bin/Debug/net7.0/HackFest.deps.json
+/Users/marlonroches/Projects/HackFest/HackFest/bin/Debug/net7.0/HackFest.runtimeconfig.json
+/Users/marlonroches/Projects/HackFest/HackFest/bin/Debug/net7.0/HackFest.dll
+/Users/marlonroches/Projects/HackFest/HackFest/bin/Debug/net7.0/HackFest.pdb
+/Users/marlonroches/Projects/HackFest/HackFest/obj/Debug/net7.0/HackFest.csproj.AssemblyReference.cache
+/Users/marlonroches/Projects/HackFest/HackFest/obj/Debug/net7.0/HackFest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marlonroches/Projects/HackFest/HackFest/obj/Debug/net7.0/HackFest.AssemblyInfoInputs.cache
+/Users/marlonroches/Projects/HackFest/HackFest/obj/Debug/net7.0/HackFest.AssemblyInfo.cs
+/Users/marlonroches/Projects/HackFest/HackFest/obj/Debug/net7.0/HackFest.csproj.CoreCompileInputs.cache
+/Users/marlonroches/Projects/HackFest/HackFest/obj/Debug/net7.0/HackFest.dll
+/Users/marlonroches/Projects/HackFest/HackFest/obj/Debug/net7.0/refint/HackFest.dll
+/Users/marlonroches/Projects/HackFest/HackFest/obj/Debug/net7.0/HackFest.pdb
+/Users/marlonroches/Projects/HackFest/HackFest/obj/Debug/net7.0/HackFest.genruntimeconfig.cache
+/Users/marlonroches/Projects/HackFest/HackFest/obj/Debug/net7.0/ref/HackFest.dll
